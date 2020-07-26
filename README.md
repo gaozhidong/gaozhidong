@@ -6,6 +6,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 18 July, 2020 - 25 July, 2020
+
+CSS   0 secs          █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
