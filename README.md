@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2020 - 22 August, 2020
+Week: 16 August, 2020 - 23 August, 2020
 
 C#           8 hrs 42 mins   ██████████████████░░░░░░░   71.67 % 
 JavaScript   2 hrs           ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
