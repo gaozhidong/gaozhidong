@@ -6,12 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 August, 2020 - 01 September, 2020
-
-TypeScript   1 hr            ███████████████░░░░░░░░░░   59.59 % 
-JavaScript   37 mins         █████████░░░░░░░░░░░░░░░░   36.47 % 
-LESS         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-JSX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
