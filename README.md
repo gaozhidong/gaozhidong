@@ -6,6 +6,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 September, 2020 - 08 September, 2020
+
+TypeScript   1 hr 3 mins     █████████████████▒░░░░░░░   68.82 % 
+JavaScript   25 mins         ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+JSX          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 <!--END_SECTION:waka-->
