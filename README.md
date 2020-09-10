@@ -6,11 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2020 - 08 September, 2020
+Week: 02 September, 2020 - 09 September, 2020
 
-TypeScript   1 hr 3 mins     █████████████████▒░░░░░░░   68.82 % 
-JavaScript   25 mins         ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-JSX          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JavaScript   3 hrs 52 mins   ████████████████░░░░░░░░░   63.44 % 
+TypeScript   1 hr 3 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Pug          25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+SCSS         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+JSON         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 ```
 <!--END_SECTION:waka-->
