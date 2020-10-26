@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 October, 2020 - 24 October, 2020
+Week: 18 October, 2020 - 25 October, 2020
 
 HTML         15 hrs 17 mins  █████████░░░░░░░░░░░░░░░░   35.73 % 
 JavaScript   8 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
