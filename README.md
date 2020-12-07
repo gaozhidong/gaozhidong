@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 November, 2020 - 05 December, 2020
+Week: 29 November, 2020 - 06 December, 2020
 
 Vue.js       23 hrs 42 mins  ████████████████▓░░░░░░░░   66.64 % 
 JavaScript   4 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 % 
