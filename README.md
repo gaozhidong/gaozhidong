@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2021 - 09 January, 2021
+Week: 03 January, 2021 - 10 January, 2021
 
 Vue.js       8 hrs 40 mins   █████████▓░░░░░░░░░░░░░░░   38.76 % 
 Java         5 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.88 % 
