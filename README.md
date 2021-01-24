@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2021 - 22 January, 2021
+Week: 16 January, 2021 - 23 January, 2021
 
-HTML         14 hrs 57 mins  ██████████▓░░░░░░░░░░░░░░   42.64 % 
-TypeScript   9 hrs 48 mins   ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Java         3 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Vue.js       2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Other        1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+TypeScript   9 hrs 48 mins   ████████▒░░░░░░░░░░░░░░░░   33.59 % 
+HTML         9 hrs 20 mins   ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Java         3 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Vue.js       2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Other        1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 ```
 <!--END_SECTION:waka-->
