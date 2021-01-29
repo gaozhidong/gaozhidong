@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2021 - 27 January, 2021
+Week: 21 January, 2021 - 28 January, 2021
 
-HTML         13 hrs 11 mins  ██████████▒░░░░░░░░░░░░░░   40.84 % 
-TypeScript   9 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-Java         5 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Other        1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-SCSS         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+HTML         13 hrs 49 mins  ███████████▓░░░░░░░░░░░░░   46.84 % 
+TypeScript   6 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 % 
+Java         5 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Other        1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Properties   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 <!--END_SECTION:waka-->
