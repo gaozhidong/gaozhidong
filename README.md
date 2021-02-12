@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2021 - 10 February, 2021
+Week: 04 February, 2021 - 11 February, 2021
 
-Vue.js       14 hrs 6 mins   ████████████▓░░░░░░░░░░░░   50.58 % 
-HTML         7 hrs 28 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.81 % 
-TypeScript   2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-JavaScript   1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Other        40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Vue.js       9 hrs 41 mins   ██████████████▒░░░░░░░░░░   57.33 % 
+HTML         5 hrs 55 mins   ████████▓░░░░░░░░░░░░░░░░   35.12 % 
+JavaScript   47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+TypeScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 <!--END_SECTION:waka-->
