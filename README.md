@@ -6,9 +6,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2021 - 13 February, 2021
+Week: 07 February, 2021 - 14 February, 2021
 
-Vue.js   5 hrs 47 mins   ██████████████▒░░░░░░░░░░   57.68 % 
-HTML     4 hrs 15 mins   ██████████▓░░░░░░░░░░░░░░   42.32 % 
+HTML     2 hrs 51 mins   ████████████▓░░░░░░░░░░░░   50.56 % 
+Vue.js   2 hrs 47 mins   ████████████▒░░░░░░░░░░░░   49.44 % 
 ```
 <!--END_SECTION:waka-->
