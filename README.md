@@ -6,9 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2021 - 15 February, 2021
-
-Vue.js   1 hr 33 mins    ██████████████████░░░░░░░   71.35 % 
-HTML     37 mins         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
