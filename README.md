@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2021 - 19 February, 2021
+Week: 13 February, 2021 - 20 February, 2021
 
-HTML                       5 hrs 41 mins   ████████████▓░░░░░░░░░░░░   51.25 % 
-Vue.js                     2 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-TypeScript                 43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Nginx configuration file   41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-JavaScript                 29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+HTML                       6 hrs 20 mins   ███████████░░░░░░░░░░░░░░   43.79 % 
+Vue.js                     2 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Java                       2 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+TypeScript                 1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Nginx configuration file   41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 ```
 <!--END_SECTION:waka-->
