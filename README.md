@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 March, 2021 - 20 March, 2021
+Week: 14 March, 2021 - 21 March, 2021
 
 Vue.js       17 hrs 2 mins   ██████████████░░░░░░░░░░░   56.17 % 
 TypeScript   4 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
