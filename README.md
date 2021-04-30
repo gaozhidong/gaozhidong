@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 April, 2021 - 28 April, 2021
+Week: 22 April, 2021 - 29 April, 2021
 
-HTML         10 hrs 13 mins  ████████████████▒░░░░░░░░   65.60 % 
-C#           1 hr 48 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-TypeScript   1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-CSHTML       52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+HTML         9 hrs 35 mins   ███████████████▒░░░░░░░░░   61.36 % 
+C#           2 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+TypeScript   1 hr 46 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+CSHTML       1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 <!--END_SECTION:waka-->
