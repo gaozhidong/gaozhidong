@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 April, 2021 - 01 May, 2021
+Week: 25 April, 2021 - 02 May, 2021
 
 HTML         9 hrs 33 mins   █████████████████▒░░░░░░░   69.50 % 
 C#           2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
