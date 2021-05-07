@@ -6,10 +6,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 April, 2021 - 05 May, 2021
+Week: 29 April, 2021 - 06 May, 2021
 
-C#       31 mins         ██████████████▒░░░░░░░░░░   57.05 % 
-CSHTML   15 mins         ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-HTML     8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+CSHTML   7 mins          ████████████████████████▒   97.51 % 
 ```
 <!--END_SECTION:waka-->
