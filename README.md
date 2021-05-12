@@ -6,8 +6,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 May, 2021 - 10 May, 2021
+Week: 04 May, 2021 - 11 May, 2021
 
-CSHTML   4 mins          █████████████████████████   100.00 % 
+Other      9 mins          ████████████▓░░░░░░░░░░░░   50.18 % 
+CSHTML     4 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.87 % 
+Markdown   3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
 ```
 <!--END_SECTION:waka-->
