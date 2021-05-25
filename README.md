@@ -6,9 +6,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 May, 2021 - 23 May, 2021
+Week: 17 May, 2021 - 24 May, 2021
 
-JavaScript   5 mins          ██████████████░░░░░░░░░░░   55.71 % 
-JSON         3 mins          █████████▓░░░░░░░░░░░░░░░   38.16 % 
+JavaScript   50 mins         ███████████░░░░░░░░░░░░░░   44.14 % 
+Other        28 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.81 % 
+JSON         20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Markdown     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 ```
 <!--END_SECTION:waka-->
