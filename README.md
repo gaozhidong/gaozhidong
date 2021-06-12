@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 June, 2021 - 10 June, 2021
+Week: 04 June, 2021 - 11 June, 2021
 
-JavaScript   2 hrs 12 mins   █████████████░░░░░░░░░░░░   52.01 % 
-Other        1 hr 23 mins    ████████░░░░░░░░░░░░░░░░░   32.66 % 
-JSON         31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JavaScript   2 hrs 7 mins    ████████████▓░░░░░░░░░░░░   51.09 % 
+Other        1 hr 22 mins    ████████▒░░░░░░░░░░░░░░░░   33.21 % 
+JSON         31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
