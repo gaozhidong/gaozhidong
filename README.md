@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 July, 2021 - 13 July, 2021
+Week: 08 July, 2021 - 14 July, 2021
 
-JavaScript   8 hrs 32 mins   ████████▓░░░░░░░░░░░░░░░░   34.23 % 
-Vue.js       8 hrs 22 mins   ████████▒░░░░░░░░░░░░░░░░   33.60 % 
-Other        3 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Markdown     2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-JSON         1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Vue.js       9 hrs 40 mins   █████████▓░░░░░░░░░░░░░░░   39.13 % 
+JavaScript   7 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   31.39 % 
+Other        3 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Markdown     2 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+JSON         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 ```
 <!--END_SECTION:waka-->
