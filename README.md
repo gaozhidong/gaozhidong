@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 August, 2021 - 14 August, 2021
+Week: 09 August, 2021 - 15 August, 2021
 
 JavaScript   4 hrs 2 mins    ██████████████████▒░░░░░░   73.91 % 
 Other        1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
