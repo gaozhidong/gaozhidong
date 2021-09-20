@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2021 - 18 September, 2021
+Week: 13 September, 2021 - 19 September, 2021
 
 Vue.js       1 hr 28 mins    ██████████▒░░░░░░░░░░░░░░   41.68 % 
 Other        49 mins         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
