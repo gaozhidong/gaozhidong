@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 September, 2021 - 26 September, 2021
+Week: 21 September, 2021 - 27 September, 2021
 
 Other        25 mins         █████████████▓░░░░░░░░░░░   54.09 % 
 Vue.js       12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.55 % 
