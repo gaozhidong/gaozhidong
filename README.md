@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
+Week: 01 October, 2021 - 07 October, 2021
 
 JSON         2 mins          █████████▓░░░░░░░░░░░░░░░   38.82 % 
 Markdown     2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.29 % 
