@@ -6,11 +6,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2021 - 10 October, 2021
+Week: 05 October, 2021 - 11 October, 2021
 
-JSON         38 mins         ███████████████████▓░░░░░   78.62 % 
-JavaScript   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Markdown     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+JSON         37 mins         ████████████████████▒░░░░   81.76 % 
+JavaScript   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Markdown     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 ```
 <!--END_SECTION:waka-->
