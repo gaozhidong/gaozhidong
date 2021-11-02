@@ -6,11 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 October, 2021 - 31 October, 2021
+Week: 26 October, 2021 - 01 November, 2021
 
-JavaScript   2 hrs 45 mins   █████████████▒░░░░░░░░░░░   53.72 % 
-Vue.js       1 hr 15 mins    ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-JSON         1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.20 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Vue.js          4 hrs 55 mins   ████████████▒░░░░░░░░░░░░   49.02 % 
+JavaScript      3 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   32.23 % 
+JSON            1 hr 39 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Other           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+WiX Installer   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 <!--END_SECTION:waka-->
