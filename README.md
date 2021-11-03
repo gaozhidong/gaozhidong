@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2021 - 01 November, 2021
+Week: 27 October, 2021 - 02 November, 2021
 
-Vue.js          4 hrs 55 mins   ████████████▒░░░░░░░░░░░░   49.02 % 
-JavaScript      3 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   32.23 % 
-JSON            1 hr 39 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Other           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-WiX Installer   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Vue.js       5 hrs 45 mins   █████████████▒░░░░░░░░░░░   53.12 % 
+JavaScript   3 hrs           ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+JSON         1 hr 38 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
