@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 November, 2021 - 24 November, 2021
+Week: 19 November, 2021 - 25 November, 2021
 
-Vue.js       5 hrs 49 mins   ███████████████░░░░░░░░░░   60.52 % 
-JavaScript   3 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   36.31 % 
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Vue.js       5 hrs 50 mins   ████████████████▒░░░░░░░░   64.81 % 
+JavaScript   2 hrs 53 mins   ████████░░░░░░░░░░░░░░░░░   31.96 % 
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
