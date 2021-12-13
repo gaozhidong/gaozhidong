@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 December, 2021 - 11 December, 2021
+Week: 06 December, 2021 - 12 December, 2021
 
 JavaScript   5 hrs 21 mins   █████████████▓░░░░░░░░░░░   54.67 % 
 Vue.js       3 hrs 1 min     ███████▓░░░░░░░░░░░░░░░░░   30.81 % 
