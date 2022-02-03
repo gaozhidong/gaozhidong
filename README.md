@@ -6,8 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2022 - 01 February, 2022
-
-JavaScript   16 mins         █████████████████████████   99.79 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
