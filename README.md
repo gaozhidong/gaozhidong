@@ -6,11 +6,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
-Total: 2 hrs 39 mins
+Total: 3 hrs 13 mins
 
-JavaScript   1 hr 21 mins    ████████████▓░░░░░░░░░░░░   51.06 % 
-Markdown     1 hr 17 mins    ████████████▒░░░░░░░░░░░░   48.90 % 
+JavaScript   1 hr 55 mins    ███████████████░░░░░░░░░░   59.56 % 
+Markdown     1 hr 18 mins    ██████████░░░░░░░░░░░░░░░   40.42 % 
 ```
 <!--END_SECTION:waka-->
