@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 13 February, 2022 - To: 20 February, 2022
 
 JavaScript   2 hrs           ██████████████▓░░░░░░░░░░   58.62 % 
 Markdown     1 hr 18 mins    █████████▓░░░░░░░░░░░░░░░   38.13 % 
