@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2022 - To: 02 March 2022
-
-JavaScript   28 mins         ████████████████████▒░░░░   81.46 %
-JSON         5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
