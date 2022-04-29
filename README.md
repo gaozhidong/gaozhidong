@@ -7,7 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 21 April 2022 - To: 28 April 2022
+
+Vue.js       36 mins         ███████████████▓░░░░░░░░░   62.57 %
+Other        9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
 ```
 
 <!--END_SECTION:waka-->
