@@ -7,12 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 September 2022 - To: 08 September 2022
-
-HTML         10 mins         █████████████████████▓░░░   86.80 %
-Vue.js       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
